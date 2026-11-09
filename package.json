@@ -22,5 +22,8 @@
   "dependencies": {
     "concurrently": "^10.0.7",
     "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6"
   }
 }
